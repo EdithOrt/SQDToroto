@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ReactMapGL, { Marker, Popup } from "react-map-gl";
+import ReactMapGL, { Marker, Popup } from "!react-map-gl";
 import * as ubicaciones from "./Componentes/Ubicacion.json";
 import Vector from "../src/Assets/Vector.png";
 import { Link } from "react-router-dom";
