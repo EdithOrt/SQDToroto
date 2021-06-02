@@ -1,5 +1,5 @@
 import React from "react";
-import ReactMapGL, { Source, Layer } from "!react-map-gl";
+import ReactMapGL, { Source, Layer } from "react-map-gl";
 import adp from "./Data/LagunaOm/ADP.geojson";
 import cv from "./Data/LagunaOm/Cobertura_Vegetal.geojson";
 import ff from "./Data/LagunaOm/Flora_Fauna.geojson";
